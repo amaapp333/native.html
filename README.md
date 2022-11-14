@@ -1,4 +1,32 @@
 # Native App
+Responsive Google Adsense
+
+
+Google Adsense is responsive for the sites whose views are more and have good SEO. A good SEO can grow your site up and up on Google Adsense. Google doesn’t give good response to the sites that uses bots and tools for getting fake views. UK Meds( https://www.ukmeds.co.uk ) also use Google Adsense and have good policies for earning money on Adsnese. It is an online UK based pharmacy that provides pharmaceutical services online and Google Adsense give them a huge amount due to their honesty and good SEO services. Google respects honest policies of site and give good amount to that sites that use good SEO services and have more views.
+
+=========================
+
+Include:
+```
+<script src="mzy.responsive-ads.js"></script>
+```
+
+Usage:
+```
+<div class="adsense-in" data-ad-client="ca-pub-0000000000000000" data-ad-slot="0000000000"></div>
+```
+
+Credits
+-------
+
+The original post that pushes me to create this repo was submitted by Ronn Abueg on april 2014.
+
+Making Your Google AdSense Ads Really Responsive:
+http://abueg.org/posts/making-your-google-adsense-ads-really-responsive
+
+
+
+
 
 
 <p align="center">
