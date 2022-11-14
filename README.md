@@ -5,7 +5,10 @@ Native App
 <img src="https://gitlab.com/amaapp333/android/-/raw/main/.github/logo.png" width="300" height="175" alt="Bootstrap npm logo">
 </h1>
 
-Google Adsense is responsive for the sites whose views are more and have good SEO. A good SEO can grow your site up and up on Google Adsense. Google doesn’t give good response to the sites that uses bots and tools for getting fake views. UK Meds(https://amaapp333.github.io/native.html) also use Google Adsense and have good policies for earning money on Adsnese. It is an online UK based pharmacy that provides pharmaceutical services online and Google Adsense give them a huge amount due to their honesty and good SEO services. Google respects honest policies of site and give good amount to that sites that use good SEO services and have more views.
+Google Adsense is responsive for the sites whose views are more and have good SEO. A good SEO can grow your site up and up on Google Adsense. Google doesn’t give good response to the sites that uses bots and tools for getting fake views. UK Meds 
+- _https://amaapp333.github.io/native.html_ 
+
+Google Adsense and have good policies for earning money on Adsnese. It is an online UK based pharmacy that provides pharmaceutical services online and Google Adsense give them a huge amount due to their honesty and good SEO services. Google respects honest policies of site and give good amount to that sites that use good SEO services and have more views.
 
 
 Include:
