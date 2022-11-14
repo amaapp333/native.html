@@ -6,18 +6,25 @@
 </p>
 <h3 align="center">Bootstrap npm starter template</h3>
 <p align="center">Create new Bootstrap-powered npm projects in no time.</p>
+
 ## About
+
 `bootstrap-npm-starter` is a GitHub template repository for creating new Bootstrap 4 based npm projects, maintained by Bootstrap co-author @mdo. You can also use it as your own Bootstrap prototyping sandbox. For Bootstrap 5 examples, see [our new `twbs/examples` repo](https://github.com/twbs/examples).
 [![Build Status](https://github.com/twbs/bootstrap-npm-starter/workflows/CI/badge.svg)](https://github.com/twbs/bootstrap-npm-starter/actions)
+
 ## Repo template
+
 Setup as a starter template, you can easily generate a new GitHub repository. From the repository homepage, click the `Use this template` button.
+
 ## What's included
+
 - Single HTML page (`index.html`) to demonstrate how to include Bootstrap.
 - Includes [Bootstrap](https://getbootstrap.com) (currently using v4.6.2) source files via npm.
 - Includes [Bootstrap Icons](https://icons.getbootstrap.com) (v1.9.1), which includes over 1,800 icons available as SVGs and web fonts.
 - npm scripts (see `package.json`) for compiling and autoprefixing Sass, watching for changes, and starting a local server with live reload.
 - Example stylesheet (`scss/starter.scss`) highlighting two ways to include and customize Bootstrap.
 - Example JavaScript file (`assets/js/starter.js`) showing how to import all of Bootstrap, or just the parts you need.
+
 ## Usage
 Be sure to have [Node.js](https://nodejs.org/) installed before proceeding. **We recommend using Node's LTS releases, which is currently at v16.x. We only test our compiled CSS against v16.**
 
@@ -25,18 +32,25 @@ Be sure to have [Node.js](https://nodejs.org/) installed before proceeding. **We
 
 ```shell
 # Clone the repo
+
 git clone https://github.com/twbs/bootstrap-npm-starter
 cd bootstrap-npm-starter
+
 # Install dependencies
 npm i
+
 # Compile Sass
+
 npm run css-compile
 # Start server and watch Sass
 npm start
+
 # Watch Sass for changes (uses nodemon)
 npm run watch
+
 # Start local server
 npm run server
+
 # Watches Sass for changes and starts a local server
 npm start
 ```
