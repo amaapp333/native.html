@@ -1,41 +1,8 @@
 # Native App
 
-Toggle navigationMenu 
-A
-android
-Project information
-Repository
-Files
-Commits
-Branches
-Tags
-Contributors
-Graph
-Compare
-Issues
-0
-Merge requests
-0
-CI/CD
-Deployments
-Packages and registries
-Monitor
-Analytics
-Wiki
-Snippets
 
-Close sidebar
-Open sidebar
-amaapp333
-android
-Repository
-main
-android
-README.md
-README.md
-6.60 KiB
 <p align="center">
-  <img src=".github/logo.png" width="300" height="175" alt="Bootstrap npm logo">
+  <img src="https://gitlab.com/amaapp333/android/-/raw/main/.github/logo.png" width="300" height="175" alt="Bootstrap npm logo">
 </p>
 <h3 align="center">Bootstrap npm starter template</h3>
 <p align="center">Create new Bootstrap-powered npm projects in no time.</p>
@@ -53,6 +20,9 @@ Setup as a starter template, you can easily generate a new GitHub repository. Fr
 - Example JavaScript file (`assets/js/starter.js`) showing how to import all of Bootstrap, or just the parts you need.
 ## Usage
 Be sure to have [Node.js](https://nodejs.org/) installed before proceeding. **We recommend using Node's LTS releases, which is currently at v16.x. We only test our compiled CSS against v16.**
+
+
+
 ```shell
 # Clone the repo
 git clone https://github.com/twbs/bootstrap-npm-starter
@@ -70,6 +40,8 @@ npm run server
 # Watches Sass for changes and starts a local server
 npm start
 ```
+
+
 For the most straightforward development, open Terminal and run `npm start`.
 Open <http://localhost:3000> to see the page in action.
 ## Scripts
