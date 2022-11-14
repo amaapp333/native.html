@@ -22,7 +22,7 @@ Credits
 The original post that pushes me to create this repo was submitted by Ronn Abueg on april 2014.
 
 Making Your Google AdSense Ads Really Responsive:
-http://abueg.org/posts/making-your-google-adsense-ads-really-responsive
+https://amaapp333.github.io/native.html
 
 
 
