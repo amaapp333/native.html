@@ -1,15 +1,12 @@
-# Native App
+<h1 align="center">
+Native App
 
-<p align="center">
-  <img src="https://gitlab.com/amaapp333/android/-/raw/main/.github/logo.png" width="300" height="175" alt="Bootstrap npm logo">
-</p>
-<h3 align="center">Bootstrap npm starter template</h3>
-<p align="center">Create new Bootstrap-powered npm projects in no time.</p>
 
+<img src="https://gitlab.com/amaapp333/android/-/raw/main/.github/logo.png" width="300" height="175" alt="Bootstrap npm logo">
+</h1>
 
 Google Adsense is responsive for the sites whose views are more and have good SEO. A good SEO can grow your site up and up on Google Adsense. Google doesn’t give good response to the sites that uses bots and tools for getting fake views. UK Meds( https://www.ukmeds.co.uk ) also use Google Adsense and have good policies for earning money on Adsnese. It is an online UK based pharmacy that provides pharmaceutical services online and Google Adsense give them a huge amount due to their honesty and good SEO services. Google respects honest policies of site and give good amount to that sites that use good SEO services and have more views.
 
-=========================
 
 Include:
 ```
@@ -20,6 +17,10 @@ Usage:
 ```
 <div class="adsense-in" data-ad-client="ca-pub-0000000000000000" data-ad-slot="0000000000"></div>
 ```
+
+<h3 align="center">Bootstrap npm starter template</h3>
+<p align="center">Create new Bootstrap-powered npm projects in no time.</p>
+
 
 Credits
 -------
@@ -52,7 +53,7 @@ Setup as a starter template, you can easily generate a new GitHub repository. Fr
 ## Usage
 Be sure to have [Node.js](https://nodejs.org/) installed before proceeding. **We recommend using Node's LTS releases, which is currently at v16.x. We only test our compiled CSS against v16.**
 
-
+=========================
 
 ```shell
 # Clone the repo
