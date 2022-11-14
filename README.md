@@ -121,6 +121,7 @@ You can add more options here, or import the entire `bootstrap-bundle.min.js` fi
 [PurgeCSS](https://purgecss.com/) is a [PostCSS](https://postcss.org) plugin that removes unused CSS based on your site's HTML. It finds rulesets that are unused by your HTML and removes them, ensuring only what's needed is sent to your site's visitors while improving file size and performance.
 We've included a single npm script that runs PurgeCSS against our single `index.html` file to remove unused styles from `assets/css/starter.css`.
 To purge your CSS, run `npm run css-purge` from the command line. This executes the following:
+
 ```shell
 npm purgecss --css assets/css/starter.css --content index.html --output assets/css/
 ```
@@ -135,7 +136,7 @@ When your repository is generated, you won't see anything in the Actions tab unt
 
 Stylelint is included, as is Bootstrap's default Stylelint config, [stylelint-config-twbs-bootstrap](https://github.com/twbs/stylelint-config-twbs-bootstrap). This is the same linter configuration we use in the main Bootstrap project. It's run via the `npm test` command, which is invoked in our `ci.yml` Actions workflow file.
 At the root of the repo, `.stylelintignore` is used to list files that we ignore when linting and `.stylelintrc` is where we tell Stylelint to use the Bootstrap config. The former is recommended based on your specific needs, while the latter is required.
-## Copyright
+## Copyrights
 
 &copy; @maliek2020-2022 and licensed MIT.
 
