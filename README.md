@@ -1,5 +1,10 @@
 # Native App
-Responsive Google Adsense
+
+<p align="center">
+  <img src="https://gitlab.com/amaapp333/android/-/raw/main/.github/logo.png" width="300" height="175" alt="Bootstrap npm logo">
+</p>
+<h3 align="center">Bootstrap npm starter template</h3>
+<p align="center">Create new Bootstrap-powered npm projects in no time.</p>
 
 
 Google Adsense is responsive for the sites whose views are more and have good SEO. A good SEO can grow your site up and up on Google Adsense. Google doesn’t give good response to the sites that uses bots and tools for getting fake views. UK Meds( https://www.ukmeds.co.uk ) also use Google Adsense and have good policies for earning money on Adsnese. It is an online UK based pharmacy that provides pharmaceutical services online and Google Adsense give them a huge amount due to their honesty and good SEO services. Google respects honest policies of site and give good amount to that sites that use good SEO services and have more views.
@@ -23,17 +28,8 @@ The original post that pushes me to create this repo was submitted by Ronn Abueg
 
 Making Your Google AdSense Ads Really Responsive:
 https://amaapp333.github.io/native.html
+=========================
 
-
-
-
-
-
-<p align="center">
-  <img src="https://gitlab.com/amaapp333/android/-/raw/main/.github/logo.png" width="300" height="175" alt="Bootstrap npm logo">
-</p>
-<h3 align="center">Bootstrap npm starter template</h3>
-<p align="center">Create new Bootstrap-powered npm projects in no time.</p>
 
 ## About
 
@@ -82,6 +78,9 @@ npm run server
 # Watches Sass for changes and starts a local server
 npm start
 ```
+
+##
+Responsive Google Adsense
 
 
 For the most straightforward development, open Terminal and run `npm start`.
